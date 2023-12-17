@@ -31,3 +31,46 @@ li{
 .middle{
    margin-inline: 51px;
 }
+/* article */
+article{
+    width: 780px;
+margin: 200px auto;
+
+}
+.heading1{
+    color: #4D4D4D;
+text-align: center;
+font-family: 'Poppins', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%;
+letter-spacing: 0.24px;
+
+}
+.article_paragraph1{
+    color: #656565;
+text-align: justify;
+font-family: 'Nerko One', cursive;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+letter-spacing: 0.1px;
+
+}
+.article_paragraph2{
+    color: #656565;
+text-align: justify;
+font-family: 'Nerko One', cursive;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 170%; 
+letter-spacing: 0.2px;
+
+}
+.middle_paragraph{
+    margin-top: 60px;
+margin-bottom: 52px;
+}
