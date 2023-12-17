@@ -1,0 +1,33 @@
+/* header  */
+.header_logo_link{
+    display:inline-block;
+    vertical-align: middle;
+    margin-right: 849px;
+  
+}
+header{
+    width: 1440px;
+    margin:  auto;
+    background: #2A9D8F;
+    padding: 38px 130px;
+  
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+}
+.active ,.no_active{
+    color: #FFF;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    letter-spacing: 0.1px;
+}
+.middle{
+   margin-inline: 51px;
+}
